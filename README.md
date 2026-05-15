@@ -50,7 +50,7 @@ Para ejecutar Monix localmente, sigue estos pasos:
 
 ## 📸 Capturas de Pantalla
 
-*(Aquí puedes añadir imágenes de tu app una vez la subas)*
+![alt text](src/assets/captura%20pantalla.jpg)
 
 ## 📄 Licencia
 
