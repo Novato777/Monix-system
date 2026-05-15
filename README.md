@@ -48,9 +48,6 @@ Para ejecutar Monix localmente, sigue estos pasos:
    npm run build
    ```
 
-## 📸 Capturas de Pantalla
-
-![alt text](src/assets/captura%20pantalla.jpg)
 
 ## 📄 Licencia
 
